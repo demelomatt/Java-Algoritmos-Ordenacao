@@ -1,13 +1,5 @@
 
-import sortalgorithms.HeapSort;
-import sortalgorithms.CountSort;
-import sortalgorithms.MergeSort;
-import sortalgorithms.QuickSort;
-import sortalgorithms.SelectionSort;
-import sortalgorithms.InsertionSort;
-import sortalgorithms.BubbleSort;
-import java.lang.reflect.Constructor;
-import java.lang.reflect.InvocationTargetException;
+import sortalgorithms.*;
 import java.util.Arrays;
 
 public class Main {
