@@ -12,7 +12,7 @@ public class Main {
         int nElements = 50;
         String[] algorithms = {"Bubble sort", "Selection Sort", "Insertion Sort" ,"Heap Sort", "Merge Sort", "Quick sort", "Count sort", "Bucket Sort", "Radix Sort"};
         int[] sum = new int[algorithms.length]; // Armazenar soma de comparações
-        float[] avg = new float[algorithms.length]; // Armazenar médias
+        double[] avg = new double[algorithms.length]; // Armazenar médias
         
         // Para cada tamanho de vetor
         for (int size : arrSizes){
