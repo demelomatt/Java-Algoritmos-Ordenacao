@@ -11,8 +11,8 @@ public class Main {
         int[] arrSizes = {5,10,50,100,1000,10000};
         int nElements = 50;
         String[] algorithms = {"Bubble sort", "Selection Sort", "Insertion Sort" ,"Heap Sort", "Merge Sort", "Quick sort", "Count sort", "Bucket Sort", "Radix Sort"};
-        int[] sum = new int[algorithms.length]; // Armazenar soma de comparações
-        double[] avg = new double[algorithms.length]; // Armazenar médias
+        long[] sum = new long[algorithms.length]; // Armazenar soma de comparações
+        long[] avg = new long[algorithms.length]; // Armazenar médias
         
         // Para cada tamanho de vetor
         for (int size : arrSizes){
