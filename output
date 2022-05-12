@@ -1,0 +1,59 @@
+A média de comparações entre 50 vetores de tamanho 5 utilizando o algoritmo Bubble sort é: 21.0
+A média de comparações entre 50 vetores de tamanho 5 utilizando o algoritmo Selection Sort é: 24.0
+A média de comparações entre 50 vetores de tamanho 5 utilizando o algoritmo Insertion Sort é: 4.0
+A média de comparações entre 50 vetores de tamanho 5 utilizando o algoritmo Heap Sort é: 28.0
+A média de comparações entre 50 vetores de tamanho 5 utilizando o algoritmo Merge Sort é: 19.0
+A média de comparações entre 50 vetores de tamanho 5 utilizando o algoritmo Quick sort é: 8.0
+A média de comparações entre 50 vetores de tamanho 5 utilizando o algoritmo Count sort é: 7954.0
+A média de comparações entre 50 vetores de tamanho 5 utilizando o algoritmo Bucket Sort é: 0.0
+A média de comparações entre 50 vetores de tamanho 5 utilizando o algoritmo Radix Sort é: 0.0
+
+A média de comparações entre 50 vetores de tamanho 10 utilizando o algoritmo Bubble sort é: 114.0
+A média de comparações entre 50 vetores de tamanho 10 utilizando o algoritmo Selection Sort é: 123.0
+A média de comparações entre 50 vetores de tamanho 10 utilizando o algoritmo Insertion Sort é: 13.0
+A média de comparações entre 50 vetores de tamanho 10 utilizando o algoritmo Heap Sort é: 88.0
+A média de comparações entre 50 vetores de tamanho 10 utilizando o algoritmo Merge Sort é: 63.0
+A média de comparações entre 50 vetores de tamanho 10 utilizando o algoritmo Quick sort é: 26.0
+A média de comparações entre 50 vetores de tamanho 10 utilizando o algoritmo Count sort é: 17197.0
+A média de comparações entre 50 vetores de tamanho 10 utilizando o algoritmo Bucket Sort é: 0.0
+A média de comparações entre 50 vetores de tamanho 10 utilizando o algoritmo Radix Sort é: 0.0
+
+A média de comparações entre 50 vetores de tamanho 50 utilizando o algoritmo Bubble sort é: 2537.0
+A média de comparações entre 50 vetores de tamanho 50 utilizando o algoritmo Selection Sort é: 2622.0
+A média de comparações entre 50 vetores de tamanho 50 utilizando o algoritmo Insertion Sort é: 62.0
+A média de comparações entre 50 vetores de tamanho 50 utilizando o algoritmo Heap Sort é: 388.0
+A média de comparações entre 50 vetores de tamanho 50 utilizando o algoritmo Merge Sort é: 305.0
+A média de comparações entre 50 vetores de tamanho 50 utilizando o algoritmo Quick sort é: 124.0
+A média de comparações entre 50 vetores de tamanho 50 utilizando o algoritmo Count sort é: 27255.0
+A média de comparações entre 50 vetores de tamanho 50 utilizando o algoritmo Bucket Sort é: 0.0
+A média de comparações entre 50 vetores de tamanho 50 utilizando o algoritmo Radix Sort é: 0.0
+
+A média de comparações entre 50 vetores de tamanho 100 utilizando o algoritmo Bubble sort é: 12336.0
+A média de comparações entre 50 vetores de tamanho 100 utilizando o algoritmo Selection Sort é: 12621.0
+A média de comparações entre 50 vetores de tamanho 100 utilizando o algoritmo Insertion Sort é: 161.0
+A média de comparações entre 50 vetores de tamanho 100 utilizando o algoritmo Heap Sort é: 988.0
+A média de comparações entre 50 vetores de tamanho 100 utilizando o algoritmo Merge Sort é: 797.0
+A média de comparações entre 50 vetores de tamanho 100 utilizando o algoritmo Quick sort é: 322.0
+A média de comparações entre 50 vetores de tamanho 100 utilizando o algoritmo Count sort é: 37662.0
+A média de comparações entre 50 vetores de tamanho 100 utilizando o algoritmo Bucket Sort é: 0.0
+A média de comparações entre 50 vetores de tamanho 100 utilizando o algoritmo Radix Sort é: 0.0
+
+A média de comparações entre 50 vetores de tamanho 1000 utilizando o algoritmo Bubble sort é: 1010370.0
+A média de comparações entre 50 vetores de tamanho 1000 utilizando o algoritmo Selection Sort é: 1012620.0
+A média de comparações entre 50 vetores de tamanho 1000 utilizando o algoritmo Insertion Sort é: 1160.0
+A média de comparações entre 50 vetores de tamanho 1000 utilizando o algoritmo Heap Sort é: 6988.0
+A média de comparações entre 50 vetores de tamanho 1000 utilizando o algoritmo Merge Sort é: 5783.0
+A média de comparações entre 50 vetores de tamanho 1000 utilizando o algoritmo Quick sort é: 2320.0
+A média de comparações entre 50 vetores de tamanho 1000 utilizando o algoritmo Count sort é: 52650.0
+A média de comparações entre 50 vetores de tamanho 1000 utilizando o algoritmo Bucket Sort é: 0.0
+A média de comparações entre 50 vetores de tamanho 1000 utilizando o algoritmo Radix Sort é: 0.0
+
+A média de comparações entre 50 vetores de tamanho 10000 utilizando o algoritmo Bubble sort é: 1.5084615E7
+A média de comparações entre 50 vetores de tamanho 10000 utilizando o algoritmo Selection Sort é: 1.5113273E7
+A média de comparações entre 50 vetores de tamanho 10000 utilizando o algoritmo Insertion Sort é: 11159.0
+A média de comparações entre 50 vetores de tamanho 10000 utilizando o algoritmo Heap Sort é: 66988.0
+A média de comparações entre 50 vetores de tamanho 10000 utilizando o algoritmo Merge Sort é: 55771.0
+A média de comparações entre 50 vetores de tamanho 10000 utilizando o algoritmo Quick sort é: 22318.0
+A média de comparações entre 50 vetores de tamanho 10000 utilizando o algoritmo Count sort é: 112646.0
+A média de comparações entre 50 vetores de tamanho 10000 utilizando o algoritmo Bucket Sort é: 0.0
+A média de comparações entre 50 vetores de tamanho 10000 utilizando o algoritmo Radix Sort é: 0.0
