@@ -31,6 +31,8 @@ public class Main {
                 sum[4]+= MergeSort.mergeSort(randArray, 0, randArray.length - 1);
                 sum[5]+= QuickSort.quickSort(randArray, 0, randArray.length - 1);
                 sum[6]+= CountSort.countSort(randArray, randArray.length);
+                sum[7]+= BucketSort.bucketSort(randArray, randArray.length);
+                sum[8]+= RadixSort.radixSort(randArray, randArray.length);
 
             }
             
